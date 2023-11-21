@@ -374,6 +374,9 @@ footer .footer-links a:hover {
         font-size: 1rem;
     }
 }
+#portfolio,#product,#technical,#tech-team,#contact{
+    padding-top: 0
+}
 
 #team .container .card {
     min-width: 400px;
